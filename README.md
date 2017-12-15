@@ -16,8 +16,14 @@ L'idée est née du génial calendrier de noël : [calendrier](https://santatrac
 * Dossier /ressources dans le projet avec un use case diagram et diagramme des classes
 * Slides de présentation des lots fonctionnels (priorisés)
 * L'outil Git Flow
-* Board Trello (ne pas oublier la colonne test)
+* Board Trello (ne pas oublier la colonne test, la card répartition des rôles Scrum)
 * Framework Laravel 5.5
+* Organisation de chaque Sprint :
+  1. Un Sprint planning doit être réalisé (Le PO anime et présente les US assez précises pour être développées). Remarque : Pour la première Sprint on prendra un premmier temps de découper les US Epiques plus précisément, puis de les prioriser en équipe. Seulement ensuite on passera au planning poker, à la négociation des user stories retenues pour le Sprint et à la coconstruction du Sprint Goal.
+  2. Les daily scrum meeting sont obligatoires, ludiques et efficaces.
+  3. Une review doit être organisée et animée à chaque fin de Sprint afin d'obtenir les feedbacks du client et d'être transparent avec lui par rapport à l'avancement (... par qui ?).
+  4. Une retrospective doit être animée (... par qui ?).
+  5. Une deuxième séance de planning poker peut être mise en place par le PO à mis parcours.
 
 ## User Stories
 * US1 : Comme un visiteur, je veux voir les fonctionnalités du site afin d'avoir envie de m'inscrire pour créer mes animations
